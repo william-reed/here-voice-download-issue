@@ -1,0 +1,2 @@
+include ':app', ':HERE-sdk'
+rootProject.name='voice-prompt-fail'
